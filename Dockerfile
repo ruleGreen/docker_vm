@@ -1,5 +1,5 @@
 FROM codalab/default-gpu
-LABEL author=cjliux
+LABEL author=hrwang
 
 #RUN pip3 config set global.index-url http://mirrors.aliyun.com/pypi/simple
 #RUN pip3 config set install.trusted-host mirrors.aliyun.com
